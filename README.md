@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-<a href="https://xandecabral.github.io/Projeto-Mario/index.html">Teste aqui o Projeto</a>
+<a href="https://xandecabral.github.io/Projeto-Unes/">Teste aqui o Projeto</a>
 </div>
 <h3 align="center">
   Usei: 
